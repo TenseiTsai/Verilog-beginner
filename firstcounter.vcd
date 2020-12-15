@@ -1,0 +1,121 @@
+$date
+	Thu Dec 10 15:50:57 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module first_counter_tb $end
+$var wire 4 ! counter_out [3:0] $end
+$var reg 1 " clock $end
+$var reg 1 # enable $end
+$var reg 1 $ reset $end
+$scope module U_counter $end
+$var wire 1 " clock $end
+$var wire 1 # enable $end
+$var wire 1 $ reset $end
+$var reg 4 % counter_out [3:0] $end
+$scope begin COUNTER $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx %
+0$
+0#
+1"
+bx !
+$end
+#5
+0"
+1$
+#10
+1"
+#11
+b0 !
+b0 %
+#15
+0"
+0$
+#20
+1"
+1#
+#21
+b1 !
+b1 %
+#25
+0"
+#30
+1"
+#31
+b10 !
+b10 %
+#35
+0"
+#40
+1"
+#41
+b11 !
+b11 %
+#45
+0"
+#50
+1"
+#51
+b100 !
+b100 %
+#55
+0"
+#60
+1"
+#61
+b101 !
+b101 %
+#65
+0"
+#70
+1"
+#71
+b110 !
+b110 %
+#75
+0"
+#80
+1"
+#81
+b111 !
+b111 %
+#85
+0"
+#90
+1"
+#91
+b1000 !
+b1000 %
+#95
+0"
+#100
+1"
+#101
+b1001 !
+b1001 %
+#105
+0"
+#110
+1"
+#111
+b1010 !
+b1010 %
+#115
+0"
+#120
+1"
+0#
+#125
+0"
+#130
+1"

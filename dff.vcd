@@ -1,0 +1,53 @@
+$date
+	Mon Dec 14 18:57:00 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module dff_from $end
+$var wire 1 ! Q $end
+$var wire 1 " Qbar $end
+$var wire 1 # X $end
+$var wire 1 $ Y $end
+$var reg 1 % CLK $end
+$var reg 1 & D $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0&
+0%
+1$
+1#
+x"
+x!
+$end
+#5
+0!
+1"
+0$
+1%
+#10
+1$
+0%
+1&
+#15
+0"
+1!
+0#
+1%
+#20
+1#
+0%
+0&
+#25
+0!
+1"
+0$
+1%
+#30
+1$
+0%
